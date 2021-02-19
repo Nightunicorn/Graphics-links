@@ -22,3 +22,6 @@ https://www.gta5-mods.com/misc/prsa-p...​
 
 Files you need for PRSA:
 http://enbdev.com/download_mod_gta5.htm
+
+Download the Reshade Preset:
+https://rogu3n1nja.com/mods/project-dubstepzz
